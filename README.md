@@ -69,5 +69,5 @@ Proyek ini bertujuan untuk memahami penerapan konsep Pemrograman Berorientasi Ob
 ## UML Class Diagram
 
 <p align="center">
-  <img src="docs/pbo diagram.drawio.png" alt="UML Class Diagram" width="800">
+  <img src="pbo diagram.drawio.png" alt="UML Class Diagram" width="800">
 </p>
