@@ -64,3 +64,10 @@ PBO-Project/
 ## Tujuan Proyek
 
 Proyek ini bertujuan untuk memahami penerapan konsep Pemrograman Berorientasi Objek (PBO) melalui pembuatan sistem manajemen file sederhana.
+
+
+## UML Class Diagram
+
+<p align="center">
+  <img src="docs/pbo diagram.drawio.png" alt="UML Class Diagram" width="800">
+</p>
